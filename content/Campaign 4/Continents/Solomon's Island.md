@@ -1,0 +1,2 @@
+
+​	This is the island where the antitheists escaped to centuries ago, and where Solomon was born. It later became the central hub of an operation to free the inhabitants of Cyfandir from their deities' isolation, and as a result also became the birthplace/discovery of the hidden god: Barbatos.

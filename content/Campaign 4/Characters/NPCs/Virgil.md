@@ -1,0 +1,2 @@
+
+Somber Spiritomb-esque vigilante that gains power from the souls of people lost to some creature or institution. Grim Reaper vibes. I'm almost certain I want Virgil to be a good character, perhaps coming from Tyr. I also want to make sure that it's a voluntary choice on behalf of the souls to contribute to his power. Maybe once they've achieved their goal, all of the spirits flood out at once in some climax. Might end up killing him, he might've been dead this whole time, he might continue on as a guardian after that point. Really depends on what I want his goal to be.

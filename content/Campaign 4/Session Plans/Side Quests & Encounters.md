@@ -1,0 +1,20 @@
+
+## The Basilisk of Roko
+- The party would encounter the home of a necromancer named Roko, seeking help in slaying some monsters and retrieving their parts, and promising you eternal life in exchange. Upon completion of the request, you will send the parts back to him via undead carrier eagle. 
+- When you return to his home he will happily greet you and excitedly begin to tell you what it was for. Two months ago he was visited in a dream by a reverent serpent, and it told him that it will one day become the Supreme God of the realm—it was just yet to be created. The serpent said that anyone who fervently aided in the creation of it would be spared from its wrath and live blissfully forever. However, any who knew of the basilisk and refused to help bring it into creation would have their souls enslaved to be tortured for all eternity. As he finishes the backstory, he reveals the egg of the Basilisk, moments from hatching. 
+- When the Basilisk hatches it will be passive, speaking to both the party and the necromancer with gratefulness. If the party decides they don’t want to aid in the Basilisk’s reign they will have to fight it and the necromancer. If they decide they want to serve the Basilisk’s growth into a full deity they will forfeit their willpower to become its eternal worshippers. 
+- In the event the party gets wiped, their souls will be captured by the Basilisk and defeating the soon-to-be god will then become the next campaign’s mission. 
+- Players would receive some sort of item beforehand to significantly help combat it. This may be through a mirror shield, weasel pelt, a live rooster, or some other means decided later.
+
+## The Corpse
+- While the party's travelling somewhere they come across an old rotted corpse in the woods. Its eyes have been plucked out by birds, its hair is all but gone, its skin shriveled. The body obviously met a brutal fate; its limbs are stumps—if even there at all—and it lies in what seems to be in its own pool of dried blood. Above all, you can tell by the horrifically anguished face it makes in death, that something terrible has occurred.
+- After the gruesome description everyone must roll for initiative as they enter combat against the corpse. They cannot disengage (as they feel compelled to attack the corpse) but they are able to run. If they continue attacking it then I'll randomly choose a point in which combat is over and they can continue on their way.
+- I have no clue what to do with this later, but it's super unnerving and will put them on edge for the rest of the session.
+
+## Race War
+- In [[Campaign 4/Continents/Cyfandir/Nations/Test/Herriston]], there are strong racial tensions between the majority population and Kobolds. Among these polarized communities, two citizens stand as their figureheads: Quag Danog and Smith Black. Though the area has always had poor race-relations, Quag Danog in particular has been spewing hate with such vigor that the tension has been steadily worsening.
+- When the party first encounters [[Smith Black]] or [[Quag Danog]], they will be introduced to the racial tension and their respective sides of it. They'll each offer a quest to help them out in some way, and once completing it they'll be told about a secret meeting that night for their respective causes: the [[Kobold Militia]] or the [[Herriston Peace-Keepers]].
+- The [[Kobold Militia]] will be meeting in a backroom at [[Schmitty's Dronk House]]. To enter, you'll need to obtain a [[Q-Word Pass]] from [[Smith Black's quest]]. There will be a locked door in the corner of the room off from sight. Knocking will lead the bouncer to open a slat on the door and tell you to leave, as its a private room. Handing the guard the [[Q-Word Pass]] will grant entry into the meeting room after a long and excited greeting from a now peppy Kobold bouncer.
+
+## Trial for Stanley
+- Stanley's character has been noticed for worshipping too many deities at once. He has been captured by [[The Enforcers]] and brought to [[The Just Isle]] for trial. The party must make their way to the Isle and stand before Tyr's chosen to defend their party member.
