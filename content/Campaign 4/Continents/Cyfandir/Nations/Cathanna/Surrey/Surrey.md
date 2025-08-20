@@ -1,3 +1,0 @@
-
-*(pronounced sur-REE)*
-Small town in [[Cathanna]]. It's home to a large underground fighting ring, as well as [[The Rat Spirit]]—a semi-deity that represents the town's citizens as well as the local rat population. Surrey was cursed long ago by [[The Witch of Surrey|a witch]] to never again allow for cows to step foot in its borders alive. However, this curse has since been broken, as the party slew the witch's curse in exchange for forgiveness from [[The Rat Spirit]].

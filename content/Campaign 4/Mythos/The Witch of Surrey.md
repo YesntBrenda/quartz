@@ -1,2 +1,0 @@
-
-Witch that was killed by cattle ranchers for her land, and cursed Surrey to never again allow cows to inhabit its premises alive. There originally was more to the curse, but she died mid-sentence so she could only get the cows part out in time.

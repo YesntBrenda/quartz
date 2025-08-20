@@ -1,2 +1,0 @@
-
-Horse of [[Ol' Skago]]
