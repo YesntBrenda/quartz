@@ -3,7 +3,7 @@
 ### Recap:
 ​​	Last session hundreds of thousands of people arrived in Theos' capital city for the 450th year anniversary festival marking the beginning of the Era of Divination. Among them are a great multitude of workers from across the continent, being paid handsomely to assist in the festival's operation, as well as seeking a chance to have their fates read by Theos' god-queen, Deborhai.
 ​
-Among these workers are 5 peculiar travelers:
+Among these workers are 5 peculiar travelers
 - Alton, an eccentric man with skin as cold and icy as his demeanor
 - Jazmine, a bubbly newborn woman hailing from a tulip
 - Kynosoura, a mischievous elf woman with an imposing stature
